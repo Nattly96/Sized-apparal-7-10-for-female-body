@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Sized apparal 7-10 for female body</name>
+  <author>Nattly96</author>
+  <packageId>Sized.apparal.7.10.for.female.body</packageId>
+  <supportedVersions>
+    <li>1.5</li>
+  </supportedVersions>
+  <description>an updated version of an old addon from loverslab that adds graphics for breast sizes 7-10 for female bodies. incudes bionic, archo and normal breasts aswell as their jiggle graphics </description>
+  <modDependencies>
+    <li>
+      <packageId>otyoty.sizedappare</packageId>
+      <displayName>Sized Apparel for RJW</displayName>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>otyoty.sizedapparel</li>
+  </loadAfter>
+</ModMetaData>
